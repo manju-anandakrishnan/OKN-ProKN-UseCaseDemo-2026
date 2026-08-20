@@ -1,0 +1,1501 @@
+geneLabel,conditions
+ABCA1,liver disease
+ABCA12,liver disease
+ABCA2,liver disease
+ABCB11,liver disease; liver cancer
+ABCB4,liver cancer; liver disease
+ABCC2,liver disease
+ABCC6,liver disease
+ABCC8,liver disease; liver cancer
+ABCD1,liver disease
+ABCD3,liver disease
+ABCG5,liver disease
+ABCG8,liver disease
+ABHD5,liver disease
+ACAD9,liver disease
+ACADM,liver disease
+ACADS,liver disease
+ACADVL,liver disease
+ACAT1,liver disease
+ACE,liver disease; cerebrovascular disease
+ACE2,cerebrovascular disease
+ACHE,Parkinson's disease
+ACOX1,liver disease
+ACOX2,liver disease
+ACP5,liver disease
+ACSF3,liver disease
+ACSL5,liver disease
+ACTB,Parkinson's disease; liver cancer; liver disease; cerebrovascular disease
+ACTG2,liver disease
+ACVR2B,liver disease
+ACVRL1,liver disease
+ADA,liver disease
+ADA2,liver disease
+ADAMTS13,liver disease
+ADAMTSL2,liver disease
+ADAR,liver disease
+ADIPOQ,liver disease; cerebrovascular disease
+ADK,liver disease
+ADRA2A,liver disease
+AFP,liver cancer; liver disease
+AGA,liver disease
+AGGF1,liver disease
+AGL,liver disease
+AGPAT2,liver disease
+AGR2,liver disease
+AGRN,Parkinson's disease
+AGT,cerebrovascular disease
+AHCY,liver disease; liver cancer
+AHR,Parkinson's disease
+AIF1,cerebrovascular disease; Parkinson's disease
+AIFM1,liver disease
+AIRE,liver disease
+AKR1D1,liver disease
+AKT1,Parkinson's disease; cerebrovascular disease; liver cancer; liver disease
+AKT2,liver disease
+ALAS2,liver disease
+ALB,liver cancer; liver disease; cerebrovascular disease
+ALDH1A2,liver disease
+ALDOA,liver disease
+ALDOB,liver disease
+ALG1,liver disease
+ALG11,liver disease
+ALG12,liver disease
+ALG13,liver disease
+ALG2,liver disease
+ALG3,liver disease
+ALG5,liver disease
+ALG6,liver disease
+ALG8,liver disease
+ALG9,liver disease
+ALMS1,liver disease
+AMACR,liver disease
+ANK1,liver disease
+ANKRD55,liver disease
+ANKS6,liver disease
+ANTXR1,liver disease
+ANXA5,liver disease; liver cancer
+AP1B1,liver disease
+AP1S1,liver disease
+AP1S3,liver disease
+AP3B1,liver disease
+AP3D1,liver disease
+APC,liver disease; liver cancer
+APC2,liver disease
+APOA1,liver disease
+APOB,liver disease; cerebrovascular disease
+APOC2,liver disease
+APOC3,liver disease
+APOE,cerebrovascular disease; liver disease; Parkinson's disease
+APP,Parkinson's disease; cerebrovascular disease
+APPL1,liver disease; liver cancer
+ARG1,liver disease
+ARHGAP27,Parkinson's disease
+ARHGAP31,liver disease
+ARHGEF2,Parkinson's disease
+ARID1A,liver cancer; liver disease
+ARID1B,liver disease; liver cancer
+ARID2,liver disease; liver cancer
+ARL13B,liver disease
+ARL6,liver disease
+ARMC5,liver disease
+ARPC5,liver disease
+ARSA,liver disease
+ARSB,liver disease
+ARVCF,liver disease
+ASAH1,liver disease
+ASH1L,Parkinson's disease
+ASL,liver disease
+ASS1,liver disease
+ASXL1,liver disease
+ASXL3,Parkinson's disease
+ATAD3A,liver disease
+ATM,liver disease; liver cancer
+ATP11C,liver disease
+ATP13A2,Parkinson's disease
+ATP1A3,Parkinson's disease
+ATP5F1A,liver disease
+ATP5F1D,liver disease
+ATP5F1E,liver disease
+ATP5MK,liver disease
+ATP6,liver disease
+ATP6AP1,liver disease
+ATP6AP2,liver disease; Parkinson's disease
+ATP6V1B2,liver disease
+ATP7A,liver disease
+ATP7B,liver cancer; liver disease
+ATP8,liver disease
+ATP8B1,liver disease
+ATPAF1,liver disease
+ATPAF2,liver disease
+ATRX,liver disease
+ATXN2,Parkinson's disease
+AUH,liver disease
+AXIN1,liver cancer; liver disease
+B2M,liver disease
+B3GLCT,liver disease
+B4GALT1,liver disease
+B9D1,liver disease
+B9D2,liver disease
+BAAT,liver disease
+BACE1,Parkinson's disease
+BAG3,Parkinson's disease
+BAP1,liver disease
+BAX,liver disease; cerebrovascular disease; liver cancer
+BAZ1B,liver disease
+BBIP1,liver disease
+BBS1,liver disease
+BBS10,liver disease
+BBS12,liver disease
+BBS2,liver disease
+BBS4,liver disease
+BBS5,liver disease
+BBS7,liver disease
+BBS9,liver disease
+BCAP31,liver disease
+BCAT2,liver disease
+BCHE,liver disease
+BCKDK,Parkinson's disease
+BCL2,liver cancer; liver disease; cerebrovascular disease
+BCL2L1,liver cancer; liver disease
+BCL7B,liver disease
+BCS1L,liver disease
+BDNF,Parkinson's disease; cerebrovascular disease
+BECN1,liver disease
+BICC1,liver disease
+BICRA,liver disease
+BIN3,Parkinson's disease
+BIRC5,liver cancer
+BLK,liver cancer; liver disease
+BLM,liver disease
+BLNK,liver disease
+BLVRA,liver disease
+BMP2,liver cancer; liver disease
+BMP6,liver disease; liver cancer
+BMPER,liver disease
+BMPR1A,liver cancer; liver disease
+BOLA3,liver disease
+BPGM,liver disease
+BRCA1,liver cancer; liver disease
+BRCA2,liver disease; liver cancer
+BRIP1,Parkinson's disease; liver disease
+BSCL2,liver disease
+BST1,Parkinson's disease
+BTD,liver disease
+BTK,liver disease; liver cancer
+BTNL2,liver disease
+BUD23,liver disease
+C1QBP,liver disease
+C1S,liver disease
+C2orf69,liver disease
+C4B,liver disease
+CA2,liver disease
+CA5A,liver disease
+CAB39L,Parkinson's disease
+CACNA1S,liver disease
+CALR,liver disease
+CAMK2D,Parkinson's disease
+CARS2,Parkinson's disease; liver disease
+CASK,liver disease
+CASP10,liver cancer; liver disease
+CASP3,cerebrovascular disease; Parkinson's disease; liver cancer; liver disease
+CASP8,liver disease; liver cancer
+CASP9,liver disease; liver cancer
+CASR,liver disease
+CASZ1,liver disease
+CAV1,liver disease
+CAV3,liver disease
+CAVIN1,liver disease
+CBL,liver disease
+CBS,liver disease
+CC2D2A,liver cancer; liver disease; Parkinson's disease
+CCDC28B,liver disease
+CCDC47,liver disease
+CCDC62,Parkinson's disease
+CCDC85A,Parkinson's disease
+CCK,liver disease; liver cancer
+CCL2,cerebrovascular disease; liver disease
+CCM2,cerebrovascular disease
+CCND1,liver cancer; liver disease
+CCSER1,Parkinson's disease
+CCT3,Parkinson's disease
+CD19,Parkinson's disease; liver disease
+CD247,liver disease
+CD27,liver disease
+CD274,liver cancer; liver disease
+CD28,liver disease
+CD36,liver disease
+CD3D,liver disease
+CD3E,liver disease
+CD4,liver disease; liver cancer; cerebrovascular disease
+CD40LG,liver disease
+CD44,liver cancer; liver disease
+CD46,liver disease
+CD55,liver disease
+CD70,liver disease
+CD79A,liver disease
+CD79B,liver disease
+CD81,liver disease
+CD8A,liver disease; liver cancer
+CD96,liver disease
+CDAN1,liver disease
+CDH1,liver cancer; liver disease
+CDH2,liver disease; liver cancer
+CDIN1,liver disease
+CDKN1B,liver disease
+CDKN1C,liver disease; liver cancer
+CDKN2A,liver disease; liver cancer
+CEACAM3,liver disease
+CEACAM5,liver disease
+CEACAM6,liver disease
+CEL,liver disease; liver cancer
+CEP120,liver disease
+CEP164,liver disease
+CEP19,liver disease
+CEP290,liver disease
+CEP83,liver disease
+CFAP418,liver disease
+CFH,liver disease
+CFI,liver disease
+CFTR,liver disease
+CHCHD2,Parkinson's disease
+CHD7,liver disease
+CHEK2,liver disease; liver cancer
+CHRNB1,Parkinson's disease
+CIDEC,liver disease
+CIITA,liver disease
+CKB,cerebrovascular disease
+CKM,cerebrovascular disease
+CKMT1B,cerebrovascular disease
+CKMT2,cerebrovascular disease
+CLCA4,liver disease
+CLCN3,Parkinson's disease
+CLCN7,liver disease
+CLDN1,liver disease
+CLDN5,cerebrovascular disease
+CLEC7A,liver disease
+CLIP2,liver disease
+CLPB,liver disease
+CNOT1,liver disease
+CNTN1,Parkinson's disease
+CNTNAP2,liver disease
+COA8,liver disease
+COG1,liver disease
+COG2,liver disease
+COG4,liver disease
+COG5,liver disease
+COG6,liver disease
+COG7,liver disease
+COG8,liver disease
+COMT,Parkinson's disease; liver disease
+COQ2,Parkinson's disease; liver disease
+CORIN,liver disease
+COX1,liver disease
+COX14,liver disease
+COX15,liver disease
+COX16,liver disease
+COX3,liver disease
+COX4I2,liver disease
+COX5A,liver disease
+CP,liver disease
+CPA1,liver disease
+CPLX1,liver disease
+CPOX,liver disease; liver cancer
+CPT1A,liver disease
+CPT2,liver disease
+CR2,liver disease
+CREB1,cerebrovascular disease
+CREBBP,liver cancer; liver disease
+CRLS1,Parkinson's disease
+CRP,cerebrovascular disease; liver disease
+CSF3R,liver disease
+CSPP1,liver disease
+CTBP1,liver disease
+CTC1,liver disease
+CTCF,liver disease
+CTLA4,liver disease; liver cancer
+CTNNB1,liver disease; liver cancer
+CTNS,liver disease
+CTRC,liver disease
+CTSA,liver disease
+CTSB,Parkinson's disease
+CTSC,liver disease
+CTSK,liver disease
+CXCL10,liver disease
+CXCL8,liver disease; cerebrovascular disease
+CYBA,liver disease
+CYBB,liver disease
+CYBC1,liver disease
+CYC1,liver disease
+CYCS,cerebrovascular disease; liver disease; Parkinson's disease
+CYP19A1,liver disease
+CYP27A1,liver disease
+CYP27B1,liver disease
+CYP2E1,liver disease
+CYP2R1,liver disease
+CYP3A4,liver disease
+CYP7A1,liver disease
+CYP7B1,liver disease
+CYRIB,Parkinson's disease
+CYTB,liver disease
+DAXX,liver disease
+DCDC2,liver disease
+DCLRE1C,liver disease
+DCST1,Parkinson's disease
+DCTN1,Parkinson's disease
+DCTN4,liver disease
+DDC,Parkinson's disease
+DDOST,liver disease
+DDRGK1,liver disease
+DEF6,liver disease
+DGKQ,Parkinson's disease
+DGUOK,liver disease
+DHCR7,liver disease
+DHDDS,liver disease
+DHFR,liver disease
+DIS3L2,liver cancer; liver disease
+DKC1,liver disease
+DLD,liver disease
+DLG2,Parkinson's disease
+DLK1,liver cancer; liver disease
+DLL4,liver disease
+DMD,liver disease
+DMPK,liver disease
+DNAH17,Parkinson's disease
+DNAJB11,liver disease
+DNAJC13,Parkinson's disease
+DNAJC19,liver disease
+DNAJC21,liver disease
+DNAJC30,liver disease
+DNAJC6,Parkinson's disease
+DNASE1L1,Parkinson's disease
+DNASE1L3,liver disease
+DNASE2,liver disease
+DOCK2,liver disease
+DOCK6,liver disease
+DOCK8,liver disease
+DOLK,liver disease
+DPAGT1,liver disease
+DPF2,liver disease; liver cancer
+DPM1,liver disease
+DPM2,liver disease
+DPM3,liver disease
+DPP4,cerebrovascular disease
+DPYS,liver disease
+DRD2,Parkinson's disease
+DUOX2,liver disease
+DUOXA2,liver disease
+DYNC2H1,liver disease
+DYNC2I1,liver disease
+DYNC2I2,liver disease
+DYNC2LI1,liver disease
+DYRK1A,Parkinson's disease
+DZIP1L,liver disease; liver cancer
+EARS2,liver disease
+EDN1,cerebrovascular disease
+EDNRA,liver disease
+EFL1,liver disease
+EFNA4-EFNA3,Parkinson's disease
+EGF,liver cancer; liver disease
+EGFR,liver disease; liver cancer
+EIF2AK3,liver disease
+EIF4G1,Parkinson's disease
+EIF4H,liver disease
+ELN,liver disease
+ELOVL7,Parkinson's disease
+ENG,liver disease
+ENPP1,liver disease
+EOGT,liver disease
+EP300,liver disease; liver cancer
+EPB41,liver disease
+EPB42,liver disease
+EPCAM,liver disease; liver cancer
+EPM2A,liver disease
+EPO,cerebrovascular disease
+ERBB2,liver cancer; liver disease
+ERBB3,liver disease
+ERCC1,liver disease
+ERCC4,liver disease
+ERCC6,liver disease
+ERCC8,liver disease
+ESAM,liver disease
+ESCO2,liver disease
+ESR1,liver disease; liver cancer
+ETFA,liver disease
+ETFB,liver disease
+ETFDH,liver disease
+EWSR1,liver disease
+EXTL3,liver disease
+EZH2,liver cancer
+F13A1,liver disease
+F13B,liver disease
+F2,liver cancer; liver disease; cerebrovascular disease
+F3,liver disease; cerebrovascular disease
+F5,liver cancer; liver disease
+FADD,liver disease
+FAH,liver cancer; liver disease
+FAM111B,liver disease
+FAM171A2,Parkinson's disease
+FAM47E,Parkinson's disease
+FAM47E-STBD1,Parkinson's disease
+FAN1,liver cancer; liver disease
+FANCA,liver disease
+FANCB,liver disease
+FANCC,liver disease
+FANCD2,liver disease
+FANCE,liver disease
+FANCF,liver disease
+FANCG,liver disease
+FANCI,liver disease
+FANCL,liver disease
+FANCM,liver disease
+FARS2,liver disease
+FARSA,liver disease
+FARSB,liver disease
+FAS,liver disease; liver cancer
+FASLG,liver cancer; liver disease
+FASN,Parkinson's disease; liver disease
+FBN1,liver disease
+FBP1,liver disease
+FBXL4,liver disease
+FBXO7,Parkinson's disease
+FCGR2A,liver disease
+FCGR3B,liver disease
+FDX2,liver disease
+FECH,liver disease
+FERMT3,liver disease
+FGA,liver disease
+FGF2,cerebrovascular disease
+FGF21,liver disease
+FGFR2,liver disease
+FGFRL1,liver disease
+FH,liver disease
+FHL1,liver disease
+FKBP6,liver disease
+FLI1,liver disease
+FLNC,liver disease
+FLT1,liver disease
+FN1,liver disease
+FOCAD,liver disease
+FOS,liver disease
+FOXF1,liver disease
+FOXP3,liver disease
+FOXRED1,liver disease
+FTH1,liver disease
+FTL,liver disease
+FUCA1,liver disease
+FYN,Parkinson's disease
+G6PC1,liver cancer; liver disease
+G6PC3,liver disease
+G6PD,liver disease
+GAA,liver disease
+GABRD,liver disease
+GAK,Parkinson's disease
+GALE,liver disease
+GALK1,liver disease
+GALM,liver disease
+GALNS,liver disease
+GALT,liver disease
+GANAB,liver disease
+GAPDH,liver cancer; liver disease; cerebrovascular disease
+GATA2,liver disease
+GATA6,liver disease
+GATC,liver disease
+GBA1,Parkinson's disease; liver disease
+GBE1,liver disease
+GBF1,Parkinson's disease
+GCDH,liver disease
+GCG,liver disease; cerebrovascular disease
+GCGR,liver disease
+GCH1,Parkinson's disease
+GCK,liver cancer; liver disease
+GCKR,liver disease
+GCLC,liver disease
+GCSH,liver disease
+GDF2,liver disease
+GDNF,Parkinson's disease; cerebrovascular disease
+GFAP,Parkinson's disease; cerebrovascular disease
+GFM1,liver disease
+GGCX,liver disease
+GH1,liver disease
+GIGYF2,Parkinson's disease
+GIMAP5,liver cancer; liver disease
+GLB1,liver disease
+GLIS3,liver disease
+GLP1R,cerebrovascular disease
+GLRX5,liver disease
+GNAS,liver cancer; liver disease
+GNB2,liver disease
+GNE,liver disease
+GNMT,liver disease
+GNPTAB,liver disease
+GNS,liver disease
+GP1BB,liver disease
+GPC3,liver cancer; liver disease
+GPC4,liver cancer; liver disease
+GPD1,liver disease
+GPI,liver disease
+GPIHBP1,liver disease
+GPM6B,Parkinson's disease
+GPNMB,Parkinson's disease
+GPR35,liver cancer; liver disease
+GPR65,Parkinson's disease
+GPT,liver disease; cerebrovascular disease; liver cancer
+GPT2,liver disease
+GSK3B,liver cancer; liver disease
+GSTM3,liver disease
+GSTZ1,liver disease
+GTF2I,liver disease
+GTF2IRD1,liver disease
+GTF2IRD2,liver disease
+GUCY2D,liver disease
+GUSB,liver disease
+GXYLT1,Parkinson's disease
+GYPC,liver disease
+GYS2,liver disease
+H4C3,liver disease
+HACD1,liver disease
+HADH,liver disease
+HADHA,liver disease
+HADHB,liver disease
+HAMP,liver disease
+HASPIN,Parkinson's disease
+HAVCR2,liver disease
+HBA1,liver disease
+HBA2,liver disease
+HBB,liver disease; liver cancer
+HBG1,liver disease
+HBG2,liver disease
+HCK,liver disease
+HEATR6,Parkinson's disease
+HEPACAM,liver disease
+HESX1,liver disease
+HEXB,liver disease
+HFE,liver disease; liver cancer
+HGD,liver disease
+HGF,liver disease
+HGSNAT,liver disease
+HIF1A,liver disease; cerebrovascular disease; liver cancer
+HIP1R,Parkinson's disease
+HIRA,liver disease
+HJV,liver disease
+HK1,liver disease
+HLA-B,liver disease
+HLA-DQA1,liver disease
+HLA-DQB1,liver disease
+HLA-DRA,Parkinson's disease
+HLA-DRB1,liver disease
+HMBS,liver disease; liver cancer
+HMGCL,liver disease
+HMGCR,liver disease; cerebrovascular disease
+HMGCS2,liver disease
+HMOX1,cerebrovascular disease; liver disease
+HNF1A,liver cancer; liver disease
+HNF1B,liver disease
+HNF4A,liver cancer; liver disease
+HNRNPA1,liver disease
+HNRNPA2B1,liver disease
+HOXD13,liver disease
+HPD,liver disease
+HPGD,liver disease
+HSD17B10,liver disease
+HSD17B4,liver disease
+HSD3B7,liver disease
+HSPG2,liver disease
+HTRA2,Parkinson's disease; liver disease
+HTT,Parkinson's disease
+HYOU1,liver disease
+IARS1,liver disease
+ICAM1,cerebrovascular disease
+ICOS,liver disease
+IDS,liver disease
+IDUA,liver disease
+IER3IP1,liver disease
+IFIH1,liver disease
+IFNA1,liver disease; liver cancer
+IFNA10,liver disease
+IFNA13,liver disease
+IFNA14,liver disease
+IFNA16,liver disease
+IFNA17,liver disease
+IFNA2,liver disease
+IFNA21,liver disease
+IFNA4,liver disease
+IFNA5,liver disease
+IFNA6,liver disease
+IFNA7,liver disease
+IFNA8,liver disease
+IFNG,cerebrovascular disease; liver disease; liver cancer
+IFNGR1,liver disease
+IFNL3,liver disease
+IFT122,liver disease
+IFT140,liver disease
+IFT172,liver disease
+IFT27,liver disease
+IFT43,liver disease
+IFT56,liver disease
+IFT74,liver disease
+IFT80,liver disease
+IGF1,cerebrovascular disease; liver disease
+IGF2,liver cancer; liver disease
+IGF2R,liver cancer; liver disease
+IGLL1,liver disease
+IGSF9B,Parkinson's disease
+IKBKG,liver disease
+IKZF1,liver disease
+IL10,liver disease; cerebrovascular disease; liver cancer
+IL12A,liver disease; liver cancer
+IL12RB1,liver cancer; liver disease
+IL17A,liver disease
+IL17F,liver disease
+IL17RA,liver disease
+IL17RC,liver disease
+IL18,liver disease; cerebrovascular disease
+IL18BP,liver disease
+IL1A,cerebrovascular disease; liver disease
+IL1B,cerebrovascular disease; liver disease; liver cancer; Parkinson's disease
+IL1RN,liver disease
+IL2,liver disease
+IL21R,liver disease
+IL2RA,liver disease
+IL2RB,liver disease
+IL2RG,liver disease
+IL36RN,liver disease
+IL4,liver disease
+IL6,cerebrovascular disease; liver disease; Parkinson's disease; liver cancer
+IL6ST,liver disease
+IL7R,liver disease
+INPP5E,liver cancer; liver disease
+INPP5F,Parkinson's disease
+INPPL1,liver disease
+INS,cerebrovascular disease; liver cancer; liver disease
+INSR,liver disease
+INTU,liver disease
+INVS,liver disease
+IP6K2,Parkinson's disease
+IQCB1,liver disease
+IRAK4,liver disease
+IRF2BP2,liver disease
+IRF4,liver disease
+IRF5,liver cancer; liver disease
+IRF8,liver disease
+ITCH,liver disease
+ITGA2B,Parkinson's disease
+ITGA8,Parkinson's disease
+ITGAE,Parkinson's disease
+ITIH1,Parkinson's disease
+ITK,liver disease
+ITPKB,Parkinson's disease
+IYD,liver disease
+JAG1,liver cancer; liver disease
+JAK1,liver disease
+JAK2,liver disease; liver cancer
+JAK3,liver disease
+JAM2,liver disease
+JAM3,liver disease
+JMJD1C,liver disease
+JUN,liver disease; liver cancer; cerebrovascular disease
+KANSL1,Parkinson's disease
+KCNAB2,liver disease
+KCNH1,liver disease
+KCNIP3,Parkinson's disease
+KCNJ11,liver disease; liver cancer
+KCNMA1,liver disease
+KCNN3,liver disease
+KCNN4,liver disease
+KCNQ1,liver cancer; liver disease
+KCNS3,Parkinson's disease
+KDM5C,liver disease
+KDR,liver cancer; liver disease
+KIAA0586,liver disease
+KIAA0753,liver disease
+KIF12,liver disease
+KIF20A,liver disease
+KIF23,liver disease
+KIF3B,liver disease
+KIT,liver disease
+KLF1,liver disease
+KLF11,liver cancer; liver disease
+KLHL7,Parkinson's disease
+KMT2B,liver disease
+KMT2D,liver disease
+KMT2E,liver disease
+KPNA1,Parkinson's disease
+KPNA3,Parkinson's disease
+KPTN,liver disease
+KRAS,liver cancer; liver disease
+KRIT1,cerebrovascular disease; liver disease
+KRT18,liver disease
+KRT19,liver disease
+KYNU,liver disease
+LACC1,liver disease
+LAMA5,liver disease
+LAMP3,Parkinson's disease
+LARGE1,liver disease
+LARS1,liver disease
+LARS2,liver disease
+LBR,liver disease
+LCAT,liver disease
+LCORL,Parkinson's disease
+LDHA,liver disease
+LDLR,liver disease
+LDLRAP1,liver disease
+LEP,cerebrovascular disease; liver disease
+LETM1,liver disease
+LHX1,liver disease
+LHX3,liver disease
+LHX4,liver disease
+LIG3,liver disease
+LIG4,liver disease
+LIMK1,liver disease
+LINC02210-CRHR1,Parkinson's disease
+LIPA,liver disease
+LIPE,liver disease
+LIPT1,liver disease
+LMBRD1,liver disease
+LMNA,Parkinson's disease; liver disease
+LMNB2,liver disease
+LONP1,liver disease
+LPIN1,liver disease
+LPIN2,liver disease
+LPL,liver disease
+LRP5,liver disease
+LRPPRC,liver disease
+LRRC8A,liver disease
+LRRK2,Parkinson's disease
+LRTOMT,Parkinson's disease
+LSM11,liver disease
+LTBP3,liver disease
+LUZP1,liver disease
+LYN,liver disease
+LYRM4,liver disease
+LYST,liver disease
+LYZ,liver disease
+LZTFL1,liver disease
+LZTR1,liver disease
+MAD2L2,liver disease
+MADD,liver disease
+MAGT1,liver disease
+MAN2B1,liver disease
+MAOA,Parkinson's disease
+MAOB,Parkinson's disease
+MAP1B,Parkinson's disease
+MAP4K4,Parkinson's disease
+MAPK3,liver disease; liver cancer
+MAPK8IP3,liver disease
+MAPT,Parkinson's disease
+MARS1,liver disease
+MBOAT7,liver disease
+MCCC1,Parkinson's disease; liver disease
+MCM4,liver disease
+MCTS1,liver disease
+MECOM,liver disease
+MECP2,liver disease
+MED12,liver disease
+MED12L,Parkinson's disease
+MED13,Parkinson's disease
+MED25,liver disease
+MEFV,liver disease
+MET,liver cancer; liver disease
+METTL27,liver disease
+MFN2,liver disease
+MICOS13,liver disease
+MICU1,liver disease
+MIF,liver disease
+MIPOL1,Parkinson's disease
+MKKS,liver disease
+MKS1,liver disease
+MLH1,liver disease; liver cancer
+MLH3,liver cancer; liver disease
+MLIP,liver disease
+MLXIPL,liver disease
+MMAA,liver disease
+MMAB,liver disease
+MMACHC,liver disease
+MMEL1,liver cancer; liver disease
+MMP2,liver cancer; liver disease
+MMP23B,liver disease
+MMP9,liver disease; liver cancer; cerebrovascular disease
+MMRN1,Parkinson's disease
+MMUT,liver disease
+MOGS,liver disease
+MPC1,liver disease
+MPI,liver disease
+MPL,liver disease
+MPV17,liver cancer; liver disease
+MRAS,liver disease
+MRM2,liver disease
+MRPL3,liver disease
+MRPL39,liver disease
+MRPL44,liver disease
+MRPS16,liver disease
+MRPS2,liver disease
+MRPS23,liver disease
+MRPS28,liver disease
+MRPS7,liver disease
+MS4A1,liver disease
+MSH2,liver disease; liver cancer
+MSH6,liver disease; liver cancer
+MST1,liver disease; liver cancer
+MTF2,Parkinson's disease
+MTM1,liver disease
+MTOR,liver disease; liver cancer; cerebrovascular disease
+MTR,liver disease
+MTRR,liver disease
+MTTP,liver disease
+MTX2,liver disease
+MUC12,Parkinson's disease
+MUC19,Parkinson's disease
+MUC5B,liver disease
+MUTYH,liver disease; liver cancer
+MVK,liver disease
+MYBPC3,liver disease
+MYC,liver disease; liver cancer
+MYD88,liver disease
+MYH14,cerebrovascular disease
+MYH9,liver disease
+MYL2,liver disease
+MYLK2,Parkinson's disease
+MYO5B,liver disease
+MYORG,liver disease
+MYPN,liver disease
+MYRF,liver disease
+NAA10,liver disease
+NAB2,liver disease; liver cancer
+NAE1,liver disease
+NAF1,liver disease
+NAGA,liver disease
+NAGLU,liver disease
+NAGS,liver disease
+NBAS,liver disease
+NCF1,liver disease
+NCF2,liver disease
+NCF4,liver disease
+NCKAP1L,liver disease
+ND1,liver disease
+ND2,liver disease
+ND3,liver disease
+ND4,liver disease
+ND5,liver disease
+ND6,liver disease
+NDUFA1,liver disease
+NDUFA11,liver disease
+NDUFA2,liver disease
+NDUFA6,liver disease
+NDUFAF1,liver disease
+NDUFAF2,liver disease; Parkinson's disease
+NDUFAF3,liver disease
+NDUFAF4,liver disease
+NDUFAF5,liver disease
+NDUFAF8,liver disease
+NDUFB10,liver disease
+NDUFB11,liver disease
+NDUFB3,liver disease
+NDUFB8,liver disease
+NDUFB9,liver disease
+NDUFS1,liver disease
+NDUFS2,liver disease
+NDUFS3,liver disease
+NDUFS4,liver disease
+NDUFS6,liver disease
+NDUFS7,liver disease
+NDUFS8,liver disease
+NDUFV1,liver disease
+NDUFV2,liver disease
+NEK1,liver disease
+NEK8,liver disease
+NELFA,liver disease
+NEU1,liver disease
+NEUROD1,liver cancer; liver disease
+NEUROG3,liver disease
+NFE2L2,liver disease
+NFKB1,liver disease; liver cancer
+NFKB2,liver disease
+NFKBIA,liver disease
+NFS1,liver disease
+NGF,Parkinson's disease; cerebrovascular disease
+NGLY1,liver disease
+NHLRC1,liver disease
+NHLRC2,liver disease
+NHP2,liver disease
+NKX2-5,liver disease
+NLRP1,liver disease
+NLRP3,liver disease
+NOD2,Parkinson's disease; liver disease
+NOP10,liver disease
+NOS3,cerebrovascular disease; liver disease
+NOTCH1,liver disease
+NOTCH2,liver disease
+NPC1,liver disease
+NPC2,liver disease
+NPHP1,liver disease
+NPHP3,liver disease
+NPHP4,liver disease
+NPM1,liver disease
+NPPB,cerebrovascular disease
+NR1H4,liver disease
+NR4A2,Parkinson's disease
+NRAS,liver disease
+NSD1,liver disease
+NSD2,liver disease
+NSF,Parkinson's disease
+NSMCE2,liver disease
+NUBPL,liver disease
+NUCKS1,Parkinson's disease
+OBSCN,liver disease
+OCLN,cerebrovascular disease; liver disease
+OCRL,liver disease
+OFD1,liver disease
+OSTM1,liver disease
+OTC,liver disease
+OTUD5,liver disease
+P2RY12,cerebrovascular disease
+P4HA2,liver disease
+PALB2,liver cancer; liver disease
+PALLD,liver disease; liver cancer
+PARK7,Parkinson's disease
+PARN,liver disease
+PARP9,Parkinson's disease
+PARS2,liver disease
+PAX4,liver cancer; liver disease
+PAX8,liver disease
+PBXIP1,Parkinson's disease
+PC,liver disease
+PCCA,liver disease
+PCCB,liver disease
+PCGF3,Parkinson's disease
+PCK1,liver disease
+PCK2,liver disease
+PCNA,liver cancer; liver disease
+PCSK1,liver disease
+PCSK9,cerebrovascular disease; liver disease
+PCYT1A,liver disease
+PDCD1,liver cancer; liver disease
+PDCD10,cerebrovascular disease
+PDE11A,liver disease; liver cancer
+PDE8B,liver disease
+PDGFB,liver disease
+PDGFRA,liver disease
+PDGFRB,liver disease
+PDGFRL,liver disease; liver cancer
+PDLIM2,Parkinson's disease
+PDPN,liver disease
+PDX1,liver disease; liver cancer
+PEPD,liver disease
+PERCC1,liver disease
+PEX1,liver disease
+PEX10,liver disease
+PEX11B,liver disease
+PEX12,liver disease
+PEX13,liver disease
+PEX14,liver disease
+PEX16,liver disease
+PEX19,liver disease
+PEX2,liver disease
+PEX26,liver disease
+PEX3,liver disease
+PEX5,liver disease
+PEX6,liver disease
+PFKM,liver disease
+PGM1,liver disease
+PHEX,liver disease
+PHKA2,liver disease; liver cancer
+PHKB,liver disease; liver cancer
+PHKG2,liver disease; liver cancer
+PI4KA,liver disease
+PIEZO1,liver disease
+PIGA,liver disease
+PIGG,liver disease
+PIGL,liver disease
+PIGM,liver disease
+PIGS,liver disease
+PIK3C2A,liver disease
+PIK3C3,liver disease
+PIK3CA,cerebrovascular disease; Parkinson's disease; liver disease; liver cancer
+PIK3CB,cerebrovascular disease; liver disease; liver cancer
+PIK3CD,liver cancer; liver disease; cerebrovascular disease
+PIK3CG,liver cancer; liver disease; cerebrovascular disease
+PIK3R1,liver disease
+PINK1,Parkinson's disease
+PITPNM2,Parkinson's disease
+PKD1,liver disease
+PKD2,liver disease
+PKHD1,liver cancer; liver disease
+PKLR,liver disease
+PKP2,Parkinson's disease
+PLA2G6,Parkinson's disease
+PLAGL1,liver disease
+PLAT,cerebrovascular disease
+PLEKHM1,liver disease
+PLG,cerebrovascular disease
+PLIN1,liver disease
+PLPP4,Parkinson's disease
+PMF1-BGLAP,Parkinson's disease
+PMM2,liver disease
+PMS1,liver disease; liver cancer
+PMS2,liver disease; liver cancer
+PMVK,Parkinson's disease
+PNPLA2,liver disease
+PNPLA3,liver disease
+PNPLA6,liver disease
+POLD1,liver disease; liver cancer
+POLE,liver disease; liver cancer
+POLG,liver disease
+POLG2,liver disease
+POLR3A,liver disease
+POMC,liver disease
+PORCN,liver disease
+POT1,liver disease
+POU1F1,liver disease
+POU2AF1,liver disease; liver cancer
+POU6F2,liver cancer; liver disease
+PPARA,liver disease
+PPARG,cerebrovascular disease; liver disease
+PPARGC1A,liver disease
+PPIG,liver disease
+PPOX,liver cancer; liver disease
+PPP1R21,liver disease
+PRDM16,liver disease
+PRDX1,liver disease
+PRF1,liver disease
+PRIM1,liver disease
+PRKACA,liver disease
+PRKAR1A,liver cancer; liver disease
+PRKCD,liver cancer; liver disease
+PRKCSH,liver disease
+PRKCZ,liver disease
+PRKN,Parkinson's disease
+PRKRA,Parkinson's disease
+PROM1,liver disease; liver cancer
+PROP1,liver disease
+PRPS1,liver disease
+PRSS1,liver disease
+PRSS2,liver disease
+PSAP,liver disease; Parkinson's disease
+PSEN1,Parkinson's disease
+PSMB10,liver disease
+PSMB4,liver disease
+PSMB8,liver disease
+PSMB9,liver disease
+PSMG2,liver disease
+PSTPIP1,liver disease
+PTEN,liver disease; liver cancer
+PTGS2,cerebrovascular disease; liver disease
+PTPA,Parkinson's disease
+PTPN11,liver disease
+PTPN2,liver disease
+PTPN22,liver disease
+PTPN3,liver disease
+PTPRC,liver disease
+PTRH2,liver disease
+PTRHD1,Parkinson's disease
+PUS7,liver disease
+PXDN,liver cancer; liver disease; cerebrovascular disease
+PXDNL,liver disease; liver cancer; cerebrovascular disease
+PYGL,liver disease; liver cancer
+QRSL1,liver disease
+RAB27A,liver disease
+RAB29,Parkinson's disease
+RAB39B,Parkinson's disease
+RABEP2,Parkinson's disease
+RABL3,liver cancer; liver disease
+RAC2,liver disease
+RACGAP1,liver disease
+RAD51,liver disease
+RAD51C,liver disease
+RAF1,liver disease
+RAG1,liver disease
+RAG2,liver disease
+RASA2,liver disease
+RASGRP1,liver cancer; liver disease
+RBCK1,liver disease
+RBFOX3,cerebrovascular disease; Parkinson's disease
+RBM10,liver disease
+RBM8A,liver disease
+RBMS3,Parkinson's disease
+RBPJ,liver disease
+RECQL4,liver disease
+REL,liver disease
+RELA,liver cancer; liver disease
+REN,cerebrovascular disease
+RERE,liver disease
+REST,liver cancer; liver disease
+RETREG3,Parkinson's disease
+RFC2,liver disease
+RFT1,liver disease
+RFWD3,liver disease
+RFX5,liver disease
+RFX6,liver disease
+RFXANK,liver disease
+RFXAP,liver disease
+RHAG,liver disease
+RHBDF2,liver disease
+RHCE,liver disease
+RHD,liver disease
+RILPL2,Parkinson's disease
+RINT1,liver disease
+RIPK1,liver disease
+RIT1,liver disease; Parkinson's disease
+RIT2,Parkinson's disease
+RMND1,liver disease
+RNASEH2A,liver disease
+RNASEH2B,liver disease
+RNASEH2C,liver disease
+RNF141,Parkinson's disease
+RNF213,cerebrovascular disease
+RNF220,liver disease
+RNF43,liver disease
+RORC,liver disease
+RPGRIP1,liver disease
+RPGRIP1L,liver cancer; liver disease
+RPL10,Parkinson's disease
+RPS20,liver disease; liver cancer
+RPS6KL1,Parkinson's disease
+RRAGC,liver disease
+RRAS,liver disease
+RRAS2,liver disease
+RREB1,liver disease
+RRM1,liver disease
+RRM2B,liver disease
+RTEL1,liver disease
+RTL1,liver disease; liver cancer
+RUNX1,liver disease
+RYR1,liver disease
+S100B,cerebrovascular disease
+SAA1,liver disease
+SAMHD1,liver disease
+SAR1B,liver disease
+SASH3,liver disease
+SBDS,liver disease
+SC5D,liver disease
+SCAPER,liver disease
+SCARB1,liver disease
+SCARB2,liver disease; Parkinson's disease
+SCD,liver disease
+SCLT1,liver disease
+SCN2A,Parkinson's disease
+SCN4A,liver disease
+SCNN1A,liver disease
+SCNN1B,liver disease
+SCNN1G,liver disease
+SCO1,liver disease
+SCO2,liver disease
+SCYL1,liver disease
+SDCCAG8,liver disease
+SDHA,liver disease
+SDHB,liver disease
+SDHC,liver disease
+SDHD,liver disease
+SEC23B,liver disease
+SEC24C,liver disease
+SEC63,liver disease
+SELE,cerebrovascular disease
+SELP,cerebrovascular disease
+SEMA4A,liver disease; liver cancer; Parkinson's disease
+SEMA4D,liver disease; liver cancer
+SEMA7A,liver disease
+SERPINA1,liver cancer; liver disease
+SERPINC1,liver disease
+SERPINE1,cerebrovascular disease
+SETBP1,liver cancer; liver disease
+SETD1A,Parkinson's disease
+SETD2,liver disease
+SF3B1,liver disease
+SFTPA2,liver disease
+SFTPC,liver disease
+SGSH,liver disease
+SH2B1,liver disease
+SH2B3,liver disease
+SH2D1A,liver disease
+SH3GL2,Parkinson's disease
+SHPK,liver disease
+SIPA1L2,Parkinson's disease
+SIRT1,liver disease; cerebrovascular disease
+SKI,liver disease
+SKIC2,liver disease; liver cancer
+SKIC3,liver cancer; liver disease
+SLC10A1,liver disease
+SLC11A1,liver disease
+SLC11A2,liver disease
+SLC16A2,liver disease
+SLC17A5,liver disease
+SLC18A2,Parkinson's disease
+SLC18B1,Parkinson's disease
+SLC19A1,liver disease
+SLC20A2,liver disease
+SLC22A5,liver disease
+SLC25A1,liver disease
+SLC25A13,liver cancer; liver disease
+SLC25A15,liver disease
+SLC25A19,liver disease
+SLC25A20,liver disease
+SLC25A4,liver disease
+SLC26A4,liver disease
+SLC26A9,liver disease
+SLC29A3,liver disease
+SLC2A1,liver disease
+SLC2A13,Parkinson's disease
+SLC2A2,liver cancer; liver disease
+SLC30A10,liver disease; Parkinson's disease
+SLC34A2,liver disease
+SLC35A2,liver disease
+SLC35C1,liver disease
+SLC37A4,liver disease; liver cancer
+SLC38A3,liver disease
+SLC39A14,Parkinson's disease
+SLC39A4,liver disease
+SLC39A7,liver disease
+SLC39A8,liver disease
+SLC40A1,liver disease
+SLC41A1,Parkinson's disease
+SLC44A1,liver disease
+SLC44A4,Parkinson's disease
+SLC4A1,liver disease
+SLC50A1,Parkinson's disease
+SLC51A,liver disease
+SLC51B,liver disease
+SLC5A2,cerebrovascular disease
+SLC5A5,liver disease
+SLC6A14,liver disease
+SLC6A3,Parkinson's disease
+SLC7A7,liver disease
+SLC9A3,liver disease
+SLCO1B1,liver disease
+SLCO1B3,liver disease
+SLCO2A1,liver disease
+SLX4,liver disease
+SMAD4,liver cancer; liver disease
+SMARCA4,liver disease; liver cancer
+SMARCB1,liver disease; liver cancer
+SMARCC2,liver disease; liver cancer
+SMARCD1,liver cancer; liver disease
+SMARCE1,liver cancer; liver disease
+SMPD1,liver disease; liver cancer
+SNAI1,liver cancer; liver disease
+SNCA,Parkinson's disease
+SNCAIP,Parkinson's disease
+SNX10,liver disease
+SNX14,liver disease
+SOCS1,liver disease
+SOD1,Parkinson's disease
+SON,liver disease
+SOS1,liver disease
+SOS2,liver disease
+SOX10,liver disease
+SOX11,liver cancer; liver disease
+SOX4,liver cancer; liver disease
+SP110,liver disease
+SPEN,liver disease
+SPI1,liver disease
+SPIB,liver disease; liver cancer
+SPIN4,liver disease
+SPINK1,liver disease
+SPOP,liver disease
+SPPL2B,Parkinson's disease
+SPPL2C,Parkinson's disease
+SPRED2,liver disease
+SPRTN,liver disease; liver cancer
+SPTA1,liver disease
+SPTB,liver disease
+SPTBN1,liver disease
+SPTSSB,Parkinson's disease
+SRC,liver cancer; liver disease
+SRD5A3,liver disease
+SREBF1,liver disease
+SRP54,liver disease
+SRSF2,liver disease
+STAB1,liver disease
+STAT1,liver disease
+STAT2,liver disease
+STAT3,liver cancer; liver disease
+STAT4,liver disease
+STAT6,liver cancer; liver disease
+STEAP3,liver disease
+STIM1,liver disease
+STK11,liver disease
+STN1,liver disease
+STOX1,liver disease
+STX11,liver disease
+STX1A,liver disease
+STX1B,Parkinson's disease
+STX5,liver disease
+STXBP2,liver disease
+SUCLG1,liver disease
+SUMF1,liver disease
+SUPT16H,liver disease
+SURF1,liver disease
+SV2C,Parkinson's disease
+SYK,liver disease
+SYNJ1,Parkinson's disease
+SYT17,Parkinson's disease
+TAF1,Parkinson's disease
+TALDO1,liver disease
+TANGO2,liver disease
+TARDBP,Parkinson's disease
+TARS2,liver disease
+TBC1D5,Parkinson's disease
+TBL2,liver disease
+TBX1,liver disease
+TBX19,liver disease
+TCF3,liver disease
+TCF4,liver cancer; liver disease
+TCIRG1,liver disease
+TCN2,liver disease
+TCTN1,liver disease
+TCTN2,liver disease
+TCTN3,liver disease
+TERT,liver disease
+TET2,liver disease
+TF,liver disease
+TFAM,liver disease
+TFE3,liver disease
+TFR2,liver disease
+TG,liver disease
+TGFB1,liver cancer; cerebrovascular disease; liver disease
+TGFBR2,liver cancer; liver disease
+TH,Parkinson's disease
+TIMMDC1,liver disease
+TINF2,liver disease
+TJP2,liver disease; liver cancer
+TKFC,liver disease
+TKT,liver disease
+TLR4,liver disease; cerebrovascular disease
+TLR8,liver disease
+TM6SF2,liver disease
+TMEM107,liver disease
+TMEM126B,liver disease
+TMEM163,Parkinson's disease
+TMEM165,liver disease
+TMEM175,Parkinson's disease
+TMEM216,liver disease
+TMEM229B,Parkinson's disease
+TMEM230,Parkinson's disease
+TMEM231,liver disease
+TMEM237,liver disease
+TMEM270,liver disease
+TMEM67,liver cancer; liver disease
+TMEM70,liver disease
+TMPRSS6,liver disease
+TNF,Parkinson's disease; liver cancer; liver disease; cerebrovascular disease
+TNFRSF11A,liver disease
+TNFRSF13B,liver disease
+TNFRSF13C,liver disease
+TNFRSF1A,liver disease
+TNFRSF1B,liver disease
+TNFSF11,liver disease
+TNFSF12,liver disease
+TNFSF15,liver cancer; liver disease
+TNNI3,liver disease
+TNNT2,liver disease
+TNPO3,liver disease; liver cancer
+TOGARAM1,liver disease
+TOM1,liver disease
+TOMM7,liver disease
+TP53,liver disease; liver cancer
+TPI1,liver disease
+TPO,liver disease
+TPP2,liver disease
+TRAF3IP1,liver disease
+TRAF3IP2,liver disease
+TRAPPC11,liver disease
+TREX1,liver disease
+TRHR,liver disease
+TRIB1,liver disease
+TRIM28,liver cancer; liver disease
+TRIM32,liver disease
+TRIM37,liver disease
+TRIM40,Parkinson's disease
+TRIM46,Parkinson's disease
+TRIP13,liver cancer; liver disease
+TRMT10C,liver disease
+TRMT5,liver disease
+TRMU,liver disease
+TRPM7,Parkinson's disease
+TRPV6,liver disease
+TSC1,liver disease
+TSC2,liver disease
+TSFM,liver disease
+TSHB,liver disease
+TSHR,liver disease
+TTC21B,liver disease
+TTC7A,liver disease
+TTC8,liver disease
+TTR,liver disease
+TUFM,liver disease
+TULP3,liver disease; liver cancer
+TWNK,liver disease
+TXNDC15,liver disease
+TYMP,liver disease
+TYMS,liver disease
+UBAP2,Parkinson's disease
+UBE2T,liver disease
+UBE4B,liver disease
+UBR1,liver disease
+UBTF,Parkinson's disease
+UCHL1,Parkinson's disease
+UCP2,liver disease
+UFD1,liver disease
+UGT1A1,liver disease
+UNC13D,liver disease
+UNC45A,liver disease
+UQCRB,liver disease
+UQCRC1,Parkinson's disease
+UQCRC2,liver disease
+UQCRFS1,liver disease
+UROD,liver cancer; liver disease
+UROS,liver disease
+USB1,liver disease
+USP18,liver disease
+USP50,Parkinson's disease
+USP53,liver disease
+USP8,Parkinson's disease
+USP9X,liver disease
+VAMP4,Parkinson's disease
+VCAM1,cerebrovascular disease
+VCP,liver disease
+VHL,liver disease; liver cancer
+VIPAS39,liver disease
+VMA12,liver disease
+VMA22,liver disease
+VPS11,liver disease
+VPS13A,liver disease
+VPS13C,Parkinson's disease
+VPS33A,liver disease
+VPS33B,liver disease
+VPS35,Parkinson's disease
+VPS37D,liver disease
+VPS45,liver disease
+VPS4A,liver disease
+VPS50,liver disease
+VPS51,liver disease
+VWF,cerebrovascular disease
+WARS2,Parkinson's disease
+WDHD1,Parkinson's disease
+WDPCP,liver disease
+WDR19,liver disease
+WDR35,liver disease
+WDR41,Parkinson's disease
+WNT3,Parkinson's disease
+WRAP53,liver disease
+WRN,liver disease
+WT1,liver cancer; liver disease
+XIAP,liver disease
+XK,liver disease
+XPR1,liver disease
+XRCC2,liver disease
+XRCC4,liver disease
+XYLT1,liver disease
+YARS1,liver disease
+YARS2,liver disease
+YWHAE,Parkinson's disease
+YWHAG,Parkinson's disease
+YWHAQ,Parkinson's disease
+YWHAZ,Parkinson's disease
+ZAP70,liver disease
+ZEB1,liver disease; liver cancer
+ZFTA,liver cancer; liver disease
+ZFYVE19,liver disease
+ZIC3,liver disease
+ZNF699,liver disease
+ZNFX1,liver disease
+ZPR1,liver disease
