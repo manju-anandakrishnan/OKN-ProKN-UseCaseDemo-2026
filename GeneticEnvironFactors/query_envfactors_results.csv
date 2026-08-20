@@ -1,0 +1,26 @@
+s_label,conditions,count
+Smoker,Parkinson Disease; Dementia; Depressive disorder; Cerebrovascular Disorders; Alzheimer's Disease,5
+Smoking,Cerebrovascular Disorders; Alzheimer's Disease; Depressive disorder; Parkinson Disease; Dementia,5
+Exercise,Dementia; Parkinson Disease; Depressive disorder; Cerebrovascular Disorders; Alzheimer's Disease,5
+Stress,Depressive disorder; Cerebrovascular Disorders; Alzheimer's Disease; Dementia; Parkinson Disease,5
+Malnutrition,Parkinson Disease; Dementia; Depressive disorder; Alzheimer's Disease,4
+Sleep Disorders,Parkinson Disease; Dementia; Depressive disorder; Alzheimer's Disease,4
+Illiteracy,Alzheimer's Disease; Dementia; Depressive disorder; Cerebrovascular Disorders,4
+Fasting,Parkinson Disease; Depressive disorder; Dementia; Alzheimer's Disease,4
+Walking (activity),Alzheimer's Disease; Depressive disorder; Dementia; Parkinson Disease,4
+Dietary Habits,Dementia; Parkinson Disease; Depressive disorder; Alzheimer's Disease,4
+Diet,Dementia; Parkinson Disease; Depressive disorder; Alzheimer's Disease,4
+Depressive Symptoms,Depressive disorder; Parkinson Disease; Dementia; Alzheimer's Disease,4
+Conflict (Psychology),Alzheimer's Disease; Dementia; Parkinson Disease; Depressive disorder,4
+Alcohol consumption,Alzheimer's Disease; Parkinson Disease; Depressive disorder; Dementia,4
+Air Pollutants,Alzheimer's Disease; Depressive disorder; Parkinson Disease; Dementia,4
+Age,Cerebrovascular Disorders; Alzheimer's Disease; Parkinson Disease,3
+Personal Satisfaction,Cerebrovascular Disorders; Alzheimer's Disease; Depressive disorder,3
+Weight Gain,Alzheimer's Disease; Cerebrovascular Disorders; Depressive disorder,3
+Loneliness,Alzheimer's Disease; Depressive disorder; Dementia,3
+Leisure Activities,Dementia; Depressive disorder; Alzheimer's Disease,3
+Headache,Alzheimer's Disease; Depressive disorder; Dementia,3
+Drowsiness,Parkinson Disease; Alzheimer's Disease; Depressive disorder,3
+Life Style,Dementia; Alzheimer's Disease,2
+Depressive disorder,Alzheimer's Disease; Dementia,2
+Environmental Pollutants,Alzheimer's Disease,1
